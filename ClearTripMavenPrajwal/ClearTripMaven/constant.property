@@ -1,0 +1,18 @@
+#Base property
+BrowserName=webdriver.chrome.driver
+DriverPath=C:\\1SEL\\chromedriver.exe
+DefaultURL=https://www.cleartrip.com
+TwoWayURL=https://www.cleartrip.com/flights/results?from=BOM&to=CJB&depart_date=29/03/2019&adults=5&childs=1&infants=5&class=Economy&airline=&carrier=&intl=n&sd=1548433614426
+
+
+#Excel property
+ExcelFilePath=.\\ClearTripFlight.xlsx
+
+ExcelRegisterSheet=Register
+ExcelLoginSheet=Login
+ExcelOneWaySearchSheet=OneWay
+ExcelOneWayBookSheet=BookOneWay
+ExcelRoundTripSearchSheet=RoundTrip
+ExcelRoundTripBookSheet=BookRoundTrip
+ExcelMultiWaySearchSheet=MultiCity
+ExcelMultiCityBookSheet=BookMultiCity
